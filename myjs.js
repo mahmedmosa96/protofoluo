@@ -1,0 +1,10 @@
+//vbnvnv
+/*fghfcxgnfxgh*/ClipboardEvent
+/*
+fhjcvxbnfn
+cghjgfhj
+*/
+/
+fgl,hdfghdflgh
+fg;.hmfdgmhdfgh
+fdglhmfdgh

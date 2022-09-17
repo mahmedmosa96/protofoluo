@@ -1,0 +1,142 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+header{
+    background-color: rgb(210, 216, 216);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+}
+.logo{
+    text-decoration: none;
+    color: blue;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
+.navgation a{
+    color:rgb(35, 16, 146);
+    text-decoration:none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+}
+.navgation a:hover{
+    color:darkviolet;
+}
+section{
+    padding:100px 200px;
+}
+.main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(w.jpg);
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+}
+.main h2{
+    color:darkslateblue;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+.main h2 span{
+    color:rgb(49, 36, 36);
+    font-size:2em;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 10px;
+}
+.main h3{
+    color:lawngreen;
+    font-size: 1.5em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10pt;
+    margin-bottom: 30px;
+}
+.main-btn{
+    color:blue;
+    background-color: aquamarine;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+ display: inline-block;
+ padding:0.9375em 2.1875em;
+ letter-spacing: 1px;
+ border-radius:15px;
+ margin-bottom:40px;
+ transition: 0.7s ease;
+}
+.main-btn:hover{
+    background-color: rgb(47, 105, 86);
+    transform:scale(1.1);
+}
+.social-icon a{
+    color:indigo;
+    font-size: 1.7em;
+    padding-right: 30px;
+    
+}
+.social-icon{
+    display: inline-block;
+    position: relative;
+    bottom: -9em;
+    left:-18em;
+}
+.s{
+    display: flex;
+    justify-content: center;
+    font-size: 2.2em;
+    color: blue;
+    font-weight: 800;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.co{
+    display:inline-flex;
+    border:1px solid red;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.car{
+    width:300px;
+    border:1px solid red;
+ justify-content: center;
+ padding:25px;
+ border-radius: 15px;
+}
+.car:hover{
+    transition: 1s;
+    transform: scale(1.1);
+}
+.icone i{
+  margin-left: 100px;
+  font-size: 6em;
+  margin-bottom: 10px;
+}
+.info{
+    font-size: 10px;
+    justify-content: center;
+    display: flex;
+}
+
+
+  
+
+
+
+
+
+
+
